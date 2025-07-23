@@ -2,7 +2,7 @@
 
 A modern, block-based rich text editor inspired by Notion, built with vanilla JavaScript, HTML, and CSS. This editor allows users to create dynamic content blocks with an intuitive slash command interface.
 
-![Editor Demo](https://via.placeholder.com/800x400/f8f9fa/343a40?text=Rich+Text+Block+Editor)
+![Editor Demo](https://luminous-sprite-9b8998.netlify.app/)
 
 ## ✨ Features
 
