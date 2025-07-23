@@ -79,15 +79,6 @@ rich-text-editor/
 - **Vanilla JavaScript**: No frameworks, pure ES6+ features
 - **Font Awesome 6.5.1**: Icon library for UI elements
 
-### Key Functions
-
-```javascript
-// Core functionality
-addEventListenerToInput(inputElement)     // Attach events to inputs
-generateDropdownOptions(inputElement)    // Show/hide suggestions
-generateNewNextInput(afterElement)       // Create new blocks
-```
-
 
 
 ## 📄 License
